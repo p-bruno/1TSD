@@ -1,5 +1,13 @@
-<!-- <a href="">libelé</a> -->
+<!-- 
+<a href="">libelé</a> 
 
+<a href="">Slides</a>
+
+<a href="">Cours</a>
+
+<a href="">TP</a>
+
+-->
 # Couper la parole
 
 <a href="https://docs.google.com/presentation/d/1Yntg092TS4Rcij4rrbdPIWlC4qsDF5tbDgyzDpX72L8/edit?usp=sharing">Slides</a>
