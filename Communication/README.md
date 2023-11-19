@@ -28,5 +28,8 @@
 
 <a href="https://drive.google.com/open?id=1cPO2LEOAQpKb3Qm5SNugcZCrTfI0RVi-&usp=drive_fs">TP</a>
 
+# Google Slides
+<a href="https://docs.google.com/document/d/1X7sXYuBh8nuilIgwOY73AsMZBAYfRet_pNrEyWUJ0QY/edit?usp=sharing">Cours</a>
+
 
 
